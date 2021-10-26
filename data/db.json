@@ -1,0 +1,92 @@
+{
+  "queues": [
+    {
+      "id": 1,
+      "queueName": "QUEUE_1",
+      "label": "Queue 1",
+      "lastDate": "2021-07-11 11:30:10",
+      "cnt1h": 200,
+      "cnt1m": 10
+    },
+    {
+      "queueName": "QUEUE_2",
+      "label": "Queue 2",
+      "lastDate": "25.10.2021, 13:06:27",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Second queue!!",
+      "id": 2
+    },
+    {
+      "queueName": "QUEUE_3",
+      "label": "Queue 3",
+      "lastDate": "25.10.2021, 13:11:31",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Third queue!!",
+      "id": 3
+    },
+    {
+      "queueName": "QUEUE_4",
+      "label": "Queue 4",
+      "lastDate": "25.10.2021, 13:12:09",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Fourth queue!!",
+      "id": 4
+    },
+    {
+      "queueName": "QUEUE_5",
+      "label": "Queue 5",
+      "lastDate": "25.10.2021, 13:12:24",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Fifth queue!!",
+      "id": 5
+    },
+    {
+      "queueName": "QUEUE_6",
+      "label": "Queue 6",
+      "lastDate": "26.10.2021, 15:36:45",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Sixth queue!!",
+      "id": 6
+    },
+    {
+      "queueName": "QUEUE_6",
+      "label": "Queue 6",
+      "lastDate": "26.10.2021, 15:38:26",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Sixth queue!!",
+      "id": 7
+    },
+    {
+      "queueName": "QUEUE_6",
+      "label": "Queue 6",
+      "lastDate": "26.10.2021, 15:40:05",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Sixth queue!!",
+      "id": 8
+    },
+    {
+      "queueName": "QUEUE_6",
+      "label": "Queue 6",
+      "lastDate": "26.10.2021, 15:41:45",
+      "cnt1h": 200,
+      "cnt10m": 1,
+      "cnt1m": 10,
+      "info": "Sixth queue!!",
+      "id": 9
+    }
+  ]
+}
